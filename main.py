@@ -1,5 +1,9 @@
 import pygame, sys
 from settings import *
+"""
+token para o github
+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
+"""
 
 class Game:
     def __init__(self):
